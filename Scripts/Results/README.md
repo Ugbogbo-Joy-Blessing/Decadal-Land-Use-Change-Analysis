@@ -61,6 +61,15 @@ The Kappa coefficient (K) is calculated using the formula: `K = (Po - Pe) / (1 -
 | **Bare Land** | 0.00 | 0.21 *(Infill)* | **0.10** *(Stable)* | **0.31** |
 | **2026 Total** | **9.00** | **35.79** | **0.76** | **45.55** |
 
+### 📈 4. Annual LULC Time-Series Trend (2016 – 2026)
+
+*<img width="1326" height="567" alt="ee-chart (1)" src="https://github.com/user-attachments/assets/34e3a82d-39c3-4796-9c38-62bd9f8f0b07" />
+
+
+**Temporal Dynamics Summary:**
+* **Vegetation Trajectory:** Unlike traditional urbanization models that assume continuous green-space depletion, the time-series trajectory reveals a steady positive trend for Vegetation (a net increase of **1.59 km²**). This graphically represents the gradual, year-over-year maturation of urban canopies within the LGA.
+* **Impervious Surface Plateau:** The trajectory for Built-up areas shows a slight downward fluctuation. In the context of a saturated urban core, this visualizes the **"canopy masking" effect** where established concrete infrastructure is increasingly obscured from the satellite sensor by mature tree growth in older residential districts, rather than actual building demolition.
+
 **Key Spatial Takeaways:**
 * **Urban Canopy Maturation:** The most significant and fascinating transition is the **2.50 km²** shift from Built-up Area to Vegetation. In the dense context of Ikeja, this does not represent the demolition of buildings; rather, it captures the 3D maturation of urban tree canopies expanding to obscure residential roofs and asphalt from the satellite sensor's view.
 * **Urban Infill & Encroachment:** **0.91 km²** of original Vegetation and **0.21 km²** of Bare Land transitioned into Built-up areas, representing continued urban infill and development over the decade.
