@@ -5,7 +5,7 @@ This project monitors land use and land cover (LULC) dynamics over a 10-year per
 
 ## 🛰️ Data Sources & Tools
 - **Data:** Landsat 8 and Landsat 9 OLI/TIRS Surface Reflectance (Collection 2 Level 2).
-- **Platform:** Google Earth Engine (JavaScript API).
+- **Platform:** Google Earth Engine (JavaScript API),ArcGIS.
 - **Study Period:** 2016 – 2026 (Annual monitoring + Decadal transition analysis).
 
 ## 📂 Repository Structure
